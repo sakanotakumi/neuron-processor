@@ -1,0 +1,5 @@
+napari 
+numpy 
+scikit-image 
+qtpy 
+scipy
