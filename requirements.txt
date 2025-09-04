@@ -1,5 +1,5 @@
-napari 
-numpy 
-scikit-image 
-qtpy 
+napari[all]
+numpy
+scikit-image
+qtpy
 scipy
